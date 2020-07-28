@@ -7,3 +7,5 @@ if(undefined)'
 if(0)
 if（NaN)
 if('')
+&& and
+\\ or
